@@ -7,7 +7,7 @@ Make sure that you have the following:
 -  Some requires different libraries so be sure to install before run
 -  An environment to work in - something like Jupyter or Spyder
 
-## Algortihms:
--  <a href="">Flipkart Web Scraping</a>
--  <a href="">LinkedIn Web Scraping & Automation</a>
--  <a href="">Pharmacy Management System Automation</a>
+## Scripts:
+-  <a href="https://github.com/DeepKariaX/Web-Scraping-Automation-Scripts/tree/master/Flipkart%20Web%20Scraping">Flipkart Web Scraping</a>
+-  <a href="https://github.com/DeepKariaX/Web-Scraping-Automation-Scripts/tree/master/Linkedin%20Web%20Scraping%20%26%20Automation">LinkedIn Web Scraping & Automation</a>
+-  <a href="https://github.com/DeepKariaX/Web-Scraping-Automation-Scripts/tree/master/Pharmacy%20Management%20System%20-%20Automation">Pharmacy Management System Automation</a>
